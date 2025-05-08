@@ -1,0 +1,6 @@
+flask
+llama_index
+google-generativeai
+supabase
+flask-cors
+python-dotenv
