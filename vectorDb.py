@@ -73,7 +73,6 @@ def build_vector_db():
             print("Saved Locally")
 
             # Step 5: Upload to Supabase bucket
-            # Step 5: Upload to Supabase bucket
             upload_prefix = f"{course_id}/"
             storage = supabase.storage.from_(BUCKET_NAME)
 
